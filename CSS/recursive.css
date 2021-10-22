@@ -7,8 +7,7 @@
     .menu-deroulant > a:after{
     font-size: 10px;
     }
-    .titre{
-        font-size: 12px;
+    .t        font-size: 12px;
       }
     :root{
         --hauteur-menu: 20px;
